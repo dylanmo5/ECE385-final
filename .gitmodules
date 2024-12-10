@@ -1,0 +1,3 @@
+[submodule "square_audio"]
+	path = square_audio
+	url = ../ECE385-audio

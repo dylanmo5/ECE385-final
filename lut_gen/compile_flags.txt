@@ -1,0 +1,2 @@
+-isystem /opt/homebrew/include
+-isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk
